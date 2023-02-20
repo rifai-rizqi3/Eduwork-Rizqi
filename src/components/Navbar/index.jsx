@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
-function NavbarApp() {
+function NavBar() {
   return (
     <Navbar bg="primary" expand="lg" variant="dark">
       <Container fluid>
@@ -47,4 +47,4 @@ function NavbarApp() {
   );
 }
 
-export default NavbarApp;
+export default NavBar;
