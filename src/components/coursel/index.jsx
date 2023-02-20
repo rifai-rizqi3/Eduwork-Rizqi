@@ -11,7 +11,7 @@ function coursel() {
           <img src={pp} alt=""/>
         </Col>
         <Col className='mt-5'>
-          <p>Hi, I’m Rizqi and I’m a DevOps Engineer at PT. Digital Nayaka Abhinaya. My current focus is optimizing Cloud Computing. My background is in computer science. Before joining this team, I worked with big data to identify insights for our clients in the digital industry. I’m excited to work with you all to solve our clients’ biggest challenges!</p>
+          <p>Hi, I’m <b>Rizqi</b> and I’m a DevOps Engineer at <b>PT. Digital Nayaka Abhinaya.</b> My current focus is optimizing Cloud Computing. My background is in computer science. Before joining this team, I worked with big data to identify insights for our clients in the digital industry. I’m excited to work with you all to solve our clients’ biggest challenges!</p>
         </Col>
       </Row>
     </Container>
